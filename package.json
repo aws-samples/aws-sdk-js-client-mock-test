@@ -19,7 +19,7 @@
     "Test"
   ],
   "author": "Kamat, Trivikram",
-  "license": "MIT",
+  "license": "MIT-0",
   "bugs": {
     "url": "https://github.com/aws-samples/aws-sdk-js-client-mock-test/issues"
   },
