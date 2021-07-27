@@ -1,0 +1,39 @@
+{
+  "name": "aws-sdk-client-mock-test",
+  "version": "1.0.0",
+  "description": "Testing aws-sdk-client-mock",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/aws-sdk-client-mock-test.git"
+  },
+  "keywords": [
+    "AWS",
+    "SDK",
+    "JavaScript",
+    "Mock",
+    "Test"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/aws-sdk-client-mock-test/issues"
+  },
+  "homepage": "https://github.com/trivikr/aws-sdk-client-mock-test#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "3.21.0",
+    "@aws-sdk/lib-dynamodb": "3.21.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/util-dynamodb": "^3.21.0",
+    "@types/jest": "26.0.24",
+    "aws-sdk-client-mock": "0.5.3",
+    "jest": "27.0.6",
+    "ts-jest": "27.0.3",
+    "typescript": "4.3.5"
+  }
+}

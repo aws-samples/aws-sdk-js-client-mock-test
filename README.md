@@ -1,11 +1,9 @@
-## My Project
+## aws-sdk-js-client-mock-test
 
-TODO: Fill this README out!
+Testing aws-sdk-client-mock
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+- Run `yarn` to install dependencies.
+- Run `yarn test` to run the tests.
 
 ## Security
 
@@ -14,4 +12,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
